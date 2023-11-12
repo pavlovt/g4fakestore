@@ -1,7 +1,7 @@
 const conf = {
-  baseUrl: 'https://jsonplaceholder.typicode.com',
+  baseUrl: 'https://fakestoreapi.com',
   apis: {
-    posts: '/posts',
+    products: '/products'
   },
 }
 
